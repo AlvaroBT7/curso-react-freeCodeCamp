@@ -1,0 +1,6 @@
+.Testimonies-container {
+    padding: 100px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
